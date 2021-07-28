@@ -1,48 +1,48 @@
 {
     id: 1,
-        name: 'paul',
+    name: 'paul',
     username: 'tartine',
     email: 'pbpcf8@gmail.com'
 },
 {
     id: 2,
-        name: 'margot',
+    name: 'margot',
     username: 'margotLO',
     email: 'margot.lord@epita.fr'
 },
 {
     id: 3,
-        name: 'alexandra',
+    name: 'alexandra',
     username: 'alex',
     email: 'alexandra.petit@epita.fr'
 },
 {
     id: 4,
-        name: 'stevie',
+    name: 'stevie',
     username: 'lawright',
     email: 'stevie.lavenu@epita.fr'
 },
 {
     id: 5,
-        name: 'happy',
+    name: 'happy',
     username: 'happy',
     email: 'miaou@gmail.com'
 },
 {
     id: 6,
-        name: 'mozart',
+    name: 'mozart',
     username: 'mozart',
     email: 'woof@gmail.com'
 },
 {
     id: 7,
-        name: 'ivy',
+    name: 'ivy',
     username: 'ivy',
     email: 'miaoumiaou@gmail.com'
 },
 {
     id: 8,
-        name: 'gerry',
+    name: 'gerry',
     username: 'gerry',
     email: 'woofwoof@gmail.com'
 }
