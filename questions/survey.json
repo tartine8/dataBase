@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"question": "Vrai ou Faux ?"
+	},
+	{
+		"id": 2,
+		"question": "Quelle est la question ?"
+	},
+	{
+		"id": 3,
+		"question": "On peut écrire du c en c++"
+	},
+	{
+		"id": 4,
+		"question": "Question suivante"
+	},
+	{
+		"id": 5,
+		"question": "Le Liban se trouve en Asie"
+	},
+	{
+		"id": 6,
+		"question": "On parle espagnol aux Philippinnes"
+	},
+	{
+		"id": 7,
+		"question": "Ce site à été fait en Angular"
+	},
+	{
+		"id": 8,
+		"question": "Ce site à été fait en React"
+	},
+	{
+		"id": 9,
+		"question": "Le React c'est super"
+	},
+	{
+		"id": 10,
+		"question": "Ce questionnaire n'a aucun sens"
+	},
+]
