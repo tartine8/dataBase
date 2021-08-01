@@ -8,7 +8,7 @@
     {
 		"id" : 2,
         "name": "Bendy",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur backend",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/bendy.jpg?raw=true"
     },
     {
@@ -26,13 +26,13 @@
     {
 		"id" : 5,
         "name": "Esteban",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur fullstack",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/esteban.jpg?raw=true"
     },
     {
 		"id" : 6,
         "name": "Flash McQueen",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur backend",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/flash.jpg?raw=true"
     },
     {
@@ -44,19 +44,19 @@
     {
 		"id" : 8,
         "name": "Homer Simpson",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur ?",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/homer.jfif?raw=true"
     },
     {
 		"id" : 9,
         "name": "Inspecteur Gadget",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur backend",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/gadgets.png?raw=true"
     },
     {
 		"id" : 10,
         "name": "Jasmine",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeuse backend",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/jasmine.jpg?raw=true"
     },
     {
@@ -68,7 +68,7 @@
     {
 		"id" : 12,
         "name": "Livaï",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur fullstack",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/livai.jpg?raw=true"
     },
     {
@@ -80,19 +80,19 @@
     {
 		"id" : 14,
         "name": "Noctali",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeuse fullstack",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/noctali.jpg?raw=true"
     },
     {
 		"id" : 15,
         "name": "Olaf",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur backend",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/olaf.jpg?raw=true"
     },
     {
 		"id" : 16,
         "name": "Pluto",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur backend",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/pluto.jpg?raw=true"
     },
     {
@@ -104,13 +104,13 @@
     {
 		"id" : 18,
         "name": "Ronflex",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur backend",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/ronflex.jpg?raw=true"
     },
     {
 		"id" : 19,
         "name": "Sailor Moon",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeuse fullstack",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/sailor.jpg?raw=true"
     },
     {
