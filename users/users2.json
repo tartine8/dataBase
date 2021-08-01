@@ -2,7 +2,7 @@
     {
 		"id" : 1,
         "name": "Alice",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeuse frontend",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/alice.jpg?raw=true"
     },
     {
@@ -14,7 +14,7 @@
     {
 		"id" : 3,
         "name": "Charly",
-        "jobTitle": "Développeur frontend",
+        "jobTitle": "Développeur backend",
         "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/charly.png?raw=true"
     },
     {
