@@ -3,7 +3,7 @@
 		"id" : 1,
         "name": "Tartine",
         "jobTitle": "Développeur frontend",
-        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/tartine.jpg?raw=true"
+        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/tartine.png?raw=true"
     },
     {
 		"id" : 2,
@@ -21,7 +21,7 @@
 		"id" : 4,
         "name": "Charly",
         "jobTitle": "Développeur frontend",
-        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/charly.jpg?raw=true"
+        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/charly.png?raw=true"
     },
     {
 		"id" : 5,
@@ -51,13 +51,13 @@
 		"id" : 9,
         "name": "Homer Simpson",
         "jobTitle": "Développeur frontend",
-        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/homer.jpg?raw=true"
+        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/homer.jfif?raw=true"
     },
     {
 		"id" : 10,
         "name": "Inspecteur Gadget",
         "jobTitle": "Développeur frontend",
-        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/gadgets.jpg?raw=true"
+        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/gadgets.png?raw=true"
     },
     {
 		"id" : 11,
@@ -81,7 +81,7 @@
 		"id" : 14,
         "name": "Mickey",
         "jobTitle": "Développeur frontend",
-        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/mickey.jpg?raw=true"
+        "picture": "https://github.com/tartine8/dataBase/blob/master/pics/pics1/mickey.jfif?raw=true"
     },
     {
 		"id" : 15,
