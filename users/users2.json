@@ -4,6 +4,10 @@
 		"name": "Alice",
 		"jobTitle": "Développeuse frontend",
 		"category": "frontend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "alice.jpg"
 	},
 	{
@@ -11,6 +15,10 @@
 		"name": "Bendy",
 		"jobTitle": "Développeur backend",
 		"category": "backend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "bendy.jpg"
 	},
 	{
@@ -18,6 +26,10 @@
 		"name": "Charly",
 		"jobTitle": "Développeur backend",
 		"category": "backend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "charly.png"
 	},
 	{
@@ -25,6 +37,10 @@
 		"name": "Darwin Watterson",
 		"jobTitle": "Développeur frontend",
 		"category": "frontend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "darwin.jpg"
 	},
 	{
@@ -32,6 +48,10 @@
 		"name": "Esteban",
 		"jobTitle": "Développeur fullstack",
 		"category": "fullstack",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "esteban.jpg"
 	},
 	{
@@ -39,6 +59,10 @@
 		"name": "Flash McQueen",
 		"jobTitle": "Développeur backend",
 		"category": "backend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "flash.jpg"
 	},
 	{
@@ -46,6 +70,10 @@
 		"name": "Gumball Watterson",
 		"jobTitle": "Développeur frontend",
 		"category": "frontend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "gumball.jpg"
 	},
 	{
@@ -53,6 +81,10 @@
 		"name": "Homer Simpson",
 		"jobTitle": "Développeur ?",
 		"category": "?",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "homer.jfif"
 	},
 	{
@@ -60,6 +92,10 @@
 		"name": "Inspecteur Gadget",
 		"jobTitle": "Développeur backend",
 		"category": "backend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "gadgets.png"
 	},
 	{
@@ -67,6 +103,10 @@
 		"name": "Jasmine",
 		"jobTitle": "Développeuse backend",
 		"category": "backend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "jasmine.jpg"
 	},
 	{
@@ -74,6 +114,10 @@
 		"name": "Ken",
 		"jobTitle": "Développeur frontend",
 		"category": "frontend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "ken.jpg"
 	},
 	{
@@ -81,6 +125,10 @@
 		"name": "Livaï",
 		"jobTitle": "Développeur fullstack",
 		"category": "fullstack",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "livai.jpg"
 	},
 	{
@@ -88,6 +136,10 @@
 		"name": "Mickey",
 		"jobTitle": "Développeur frontend",
 		"category": "frontend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "mickey.jfif"
 	},
 	{
@@ -95,6 +147,10 @@
 		"name": "Noctali",
 		"jobTitle": "Développeuse fullstack",
 		"category": "fullstack",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "noctali.jpg"
 	},
 	{
@@ -102,6 +158,10 @@
 		"name": "Olaf",
 		"jobTitle": "Développeur backend",
 		"category": "backend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "olaf.jpg"
 	},
 	{
@@ -109,6 +169,10 @@
 		"name": "Pluto",
 		"jobTitle": "Développeur backend",
 		"category": "backend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "pluto.jpg"
 	},
 	{
@@ -116,6 +180,10 @@
 		"name": "Qulbutoké",
 		"jobTitle": "Développeur frontend",
 		"category": "frontend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "qulbutoke.jpg"
 	},
 	{
@@ -123,6 +191,10 @@
 		"name": "Ronflex",
 		"jobTitle": "Développeur backend",
 		"category": "backend",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "ronflex.jpg"
 	},
 	{
@@ -130,6 +202,10 @@
 		"name": "Sailor Moon",
 		"jobTitle": "Développeuse fullstack",
 		"category": "fullstack",
+		"skills" : ["", "", ""],
+		"place": "",
+		"salary": "",
+		"available": "", 
 		"picture": "sailor.jpg"
 	},
 	{
@@ -137,6 +213,10 @@
 		"name" : "Tartine",
 		"jobTitle": "Développeur frontend",
 		"category": "frontend",
+		"skills" : ["Java", "React", "C++", "Python"],
+		"place": "Villejuif",
+		"salary": "1000",
+		"available": "09", 
 		"picture": "tartine.png"
 	}
 ]
