@@ -18,7 +18,7 @@
 		"skills" : ["Python", "SQL", "UX/UI"],
 		"place": "Atelier",
 		"salary": "10 âmes",
-		"available": "now", 
+		"available": "08", 
 		"picture": "bendy.jpg"
 	},
 	{
@@ -73,7 +73,7 @@
 		"skills" : ["Angular", "Java"],
 		"place": "Elmore",
 		"salary": "12 boites de Daisy Flakes",
-		"available": "now", 
+		"available": "08", 
 		"picture": "gumball.jpg"
 	},
 	{
