@@ -1,0 +1,17 @@
+[
+	{
+		"id" : 1,
+		"type" : "frontend",
+		"explain" : "Un développeur frontend s'occuppe de l'UX/UI d'un site internet. Il se doit de savoir utiliser un framework. React, Angular ou Vue font partie des plus connus. Les langages comme JavaScript/TypeScript sont donc essentiels pour un développeur frontend."
+	},
+	{
+		"id" : 2,
+		"type" : "backend",
+		"explain" : "Un développeur backend se charge de la gestion interne d'un site internet. Il gère la base de données avec laquelle peut communiquer le site internet et créer les fonctionnalités qui permettront d'interragir avec. Les langages tels que Python, SQL, PostgreSQL sont très importants pour un développeur backend. Une bonne maîtrise de NodeJS est également nécessaire."
+	},
+	{
+		"id" : 3,
+		"type" : "fullstack",
+		"explain" : "Un développeur fullstack s'occupe de tout dans la gestion d'un site. Plus exactement, il comprends tout et peut tout faire mais n'est bien sûr pas seul. Il doit donc savoir utiliser un framework comme ReactJS ou Angular pour gérer le design et l'accessibilité d'un site. Il doit aussi connaître des langages qui l'aideront à gérer des bases de données comme Python et SQL."
+	}
+]

@@ -1,42 +1,14 @@
 [
 	{
 		"id": 1,
-		"question": "Vrai ou Faux ?"
+		"question": "Vous avez besoin d'une personne qui s'occupe du design de votre site internet"
 	},
 	{
 		"id": 2,
-		"question": "Quelle est la question ?"
+		"question": "Vous avez besoin d'une personne qui sache gérer des bases de données"
 	},
 	{
 		"id": 3,
-		"question": "On peut écrire du c en c++"
-	},
-	{
-		"id": 4,
-		"question": "Question suivante"
-	},
-	{
-		"id": 5,
-		"question": "Le Liban se trouve en Asie"
-	},
-	{
-		"id": 6,
-		"question": "On parle espagnol aux Philippinnes"
-	},
-	{
-		"id": 7,
-		"question": "Ce site à été fait en Angular"
-	},
-	{
-		"id": 8,
-		"question": "Ce site à été fait en React"
-	},
-	{
-		"id": 9,
-		"question": "Le React c'est super"
-	},
-	{
-		"id": 10,
-		"question": "Ce questionnaire n'a aucun sens"
+		"question": "Vous avez besoin de quelqu'un de multitâche, qui sait s'occuper un peu de tout"
 	}
 ]
